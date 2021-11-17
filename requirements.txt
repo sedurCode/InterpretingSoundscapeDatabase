@@ -1,4 +1,5 @@
 scipy
+zenodo_get
 numpy
 matplotlib
 pandas~=1.3.4
